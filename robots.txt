@@ -1,1 +1,1 @@
-Sitemap: https://johnkimdy.github.io/fastpagetest/sitemap.xml
+Sitemap: https://johnkimdy.github.io/fastpagetest.github.io/sitemap.xml
